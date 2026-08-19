@@ -65,7 +65,8 @@ An NLP-based tool for comparing resumes with job descriptions and identifying re
 
 **Tech:** Python, NLP, Machine Learning
 
-Link:[ResuMatchAI](https://github.com/din-7/ResuMatch-AI)
+Link: [ResuMatchAI](https://github.com/din-7/ResuMatch-AI)
+Demo: [Demo](https://resu-match-ai-five.vercel.app/)
 ---
 
 
