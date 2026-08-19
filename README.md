@@ -67,6 +67,7 @@ An NLP-based tool for comparing resumes with job descriptions and identifying re
 
 Link: [ResuMatchAI](https://github.com/din-7/ResuMatch-AI)
 Demo: [Demo](https://resu-match-ai-five.vercel.app/)
+
 ---
 
 
