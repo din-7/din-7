@@ -21,7 +21,21 @@ A real-time reliability and observability platform for detecting and recovering 
 
 Link: [Sentinel](https://github.com/din-7/sentinel-reliability-platform)
 
+---
+### 🔎 Resume Matcher
+An NLP-based tool for comparing resumes with job descriptions and identifying relevant skill and experience alignment.
 
+- Processes unstructured resume and job-description text
+- Extracts relevant skills and qualifications
+- Compares candidate experience against role requirements
+- Produces structured matching insights
+
+**Tech:** Python, NLP, Machine Learning
+
+Link: [ResuMatchAI](https://github.com/din-7/ResuMatch-AI)
+Demo: [Demo](https://resu-match-ai-five.vercel.app/)
+
+---
 ---
 
 ### ✈️ TrixieTravels
@@ -54,22 +68,6 @@ A decentralized marketplace for AI training data designed to improve **dataset o
 Link: [DataMint AI](https://github.com/aanya2005/blockchain-ai-marketplace)
 
 ---
-
-### 🔎 Resume Matcher
-An NLP-based tool for comparing resumes with job descriptions and identifying relevant skill and experience alignment.
-
-- Processes unstructured resume and job-description text
-- Extracts relevant skills and qualifications
-- Compares candidate experience against role requirements
-- Produces structured matching insights
-
-**Tech:** Python, NLP, Machine Learning
-
-Link: [ResuMatchAI](https://github.com/din-7/ResuMatch-AI)
-Demo: [Demo](https://resu-match-ai-five.vercel.app/)
-
----
-
 
 I'm particularly interested in **model evaluation, NLP, AI reliability, emergent behavior, and increasingly autonomous AI systems**.
 
